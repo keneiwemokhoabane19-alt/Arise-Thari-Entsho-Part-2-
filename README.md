@@ -24,6 +24,9 @@ Clone the repository and open `index.html` in your browser. No additional setup 
 - Logo and favicon integration
 - Clean, accessible HTML and CSS
 
+  ## references
+  Thari Entsho, 2025. Youth Empowerment Website and Community Development Programs. Johannesburg: Thari Entsho Initiative. Available at: https://github.com/your-repo-link [Accessed 16 Nov. 2025].
+
 ##  Contributors
 - Keneiwe Mokhoabane
 
