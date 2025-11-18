@@ -19,3 +19,14 @@
 ## [v1.4] - 2025-11-16
 - Fixed image paths and alt text
 - Final polish before submission
+
+## corrections 
+-Updated github 
+-Updated my website
+- Fixed my changelog
+- Applied stylesheet the correct way.
+- Typography styles are improved.
+- Layoit structure is improved.
+- improved README
+- Changelog is present and improved.
+- Added references
